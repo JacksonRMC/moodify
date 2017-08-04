@@ -10,6 +10,6 @@ IBM Watson Tone Analyzer https://www.ibm.com/watson/developercloud/tone-analyzer
 
 
 Technology Stack: MongoDB, ExpressJS, React, NodeJS <br>
-Team: Tony Cassara, Ryan Chow, Mel Hsieh, Yvonne Zhang
+Team: Jackson Carter, John Iaconnis, Colby Duhon, Aly Temboura
 
 Built at Hack Reactor 2017
